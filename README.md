@@ -64,19 +64,7 @@ Comparison of:
 - TOTALMTD
 - TOTALYTD
 
-## 📷 Dashboard Preview
 
-### Phone Sales Dashboard
-
-![Phone Sales Dashboard](screenshots/dashboard.png)
-
-### MTD Report
-
-![MTD Report](screenshots/mtd-report.png)
-
-### Same Period Last Year
-
-![Same Period Last Year](screenshots/same-period-last-year.png)
 
 ## 👨‍💻 Author
 
